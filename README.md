@@ -1,2 +1,3 @@
 # hello-world
 Starting to know Git
+hello there, i like to know more about github and start a project soon... 
